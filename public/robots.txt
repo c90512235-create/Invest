@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://investsmart.example/sitemap.xml
+# Replace domain after Phase 9
